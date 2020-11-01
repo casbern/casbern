@@ -9,7 +9,7 @@
 I'm a junior web developer with a focus on JS developing.
 
 - [Website](https://cassiabernardo.com/) 💻 
-- I’m currently learning: 
+- I’m currently learning: Node.js, Postgres, MongoDB
 
 
 <!--
