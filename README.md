@@ -6,9 +6,9 @@
 
 
 ### About me
-I'm a junior web developer with a focus on JS developing and a specialization in UX. I have been learning and working with both frontend and backend technologies.
+I'm a junior web developer with a focus on JS development and a specialization in UX. I have been learning and working with both frontend and backend technologies.
 
-I learned and developed frontend projects with HTML5 and CSS3 and I am currently learning backend programming using Node.js, Express, Nunjucks and Postgress as a database.
+I learned and developed frontend projects with HTML5 and CSS3 and I am currently learning backend programming using Node.js, Express, Nunjucks and Postgres as a database.
 
 - 💻 [cassiabernardo.com](https://cassiabernardo.com/) - My personal website. 
 
@@ -21,7 +21,7 @@ I learned and developed frontend projects with HTML5 and CSS3 and I am currently
 
   - [validation-form](https://cah90.github.io/sign-up-form/?#) - A responsive form using HTML, CSS and JavaScript to validate the fields.
 
-  - [hocli](https://hocli.com) - A search engine for online courses. I used Figma for building the layout, HTML, CSS and JavaScript. And for the backend I have been using Node.js, Express, MongoDB.
+  - [hocli.com](https://hocli.com) - A search engine for online courses. I used Figma for building the layout, HTML, CSS and JavaScript. And for the backend I have been using Node.js, Express, MongoDB.
 
 
 
