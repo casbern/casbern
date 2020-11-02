@@ -11,7 +11,18 @@ I'm a junior web developer with a focus on JS developing and a specialization in
 I learned and developed frontend projects with HTML5 and CSS3 and I am currently learning backend programming using Node.js, Express, Nunjucks and Postgress as a database.
 
 - 💻 [cassiabernardo.com](https://cassiabernardo.com/) - My personal website. 
+
 - 🌱 I’m currently learning: Node.js, Postgres, MongoDB.
+
+- 🔭 Projects:
+  - [amordecozinha.com](https://amordecozinha.com) - A simple recipe website using a fluid HTML and CSS layout.
+
+  - [compound-calculator](https://cah90.github.io/compound-interest/) - A compound interest calculator to practice HTML, CSS, JavaScript and DOM manipulation.
+
+  - [validation-form](https://cah90.github.io/sign-up-form/?#) - A responsive form using HTML, CSS and JavaScript to validate the fields.
+
+  - [hocli](https://hocli.com) - A search engine for online courses. I used Figma for building the layout, HTML, CSS and JavaScript. And for the backend I have been using Node.js, Express, MongoDB.
+
 
 
 <!--
