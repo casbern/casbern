@@ -8,9 +8,10 @@
 ### About me
 I'm a junior web developer with a focus on JS developing and a specialization in UX. I have been learning and working with both frontend and backend technologies.
 
-- [Personal Website](https://cassiabernardo.com/) 💻 
+I learned and developed frontend projects with HTML5 and CSS3 and I am currently learning backend programming using Node.js, Express, Nunjucks and Postgress as a database.
 
-- I’m currently learning: Node.js, Postgres, MongoDB
+- 💻 [cassiabernardo.com](https://cassiabernardo.com/) - My personal website. 
+- 🌱 I’m currently learning: Node.js, Postgres, MongoDB.
 
 
 <!--
