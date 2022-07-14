@@ -12,18 +12,10 @@ I learned and developed frontend projects with HTML5 and CSS3 and I am currently
 
 - 💻 [cassiabernardo.com](https://cassiabernardo.com/) - My personal website. 
 
-- 🌱 I’m currently learning: Node.js, Postgres, MongoDB.
+- 🌱 I’m currently learning: 
 
 - 🔭 Projects:
-  - [amordecozinha.com](https://amordecozinha.com) - A simple recipe website using a fluid HTML and CSS layout.
-
-  - [compound-calculator](https://cah90.github.io/compound-interest/) - A compound interest calculator to practice HTML, CSS, JavaScript and DOM manipulation.
-
-  - [validation-form](https://cah90.github.io/sign-up-form/?#) - A responsive form using HTML, CSS and JavaScript to validate the fields.
-
-  - [hocli.com](https://hocli.com) - A search engine for online courses. I used Figma for building the layout, HTML, CSS and JavaScript. And for the backend I have been using Node.js, Express, MongoDB.
-
-
+ 
 
 <!--
 Here are some ideas to get you started:
