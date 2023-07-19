@@ -1,21 +1,37 @@
-### Hi, I'm Cássia! 👋
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cah90)](https://github.com/cah90)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiabernardodev/)](https://www.linkedin.com/in/cassiabernardodev/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cascrisbern@gmail.com)](mailto:cascrisbern@gmail.com)
-
+### < Hello /> I'm Cássia! 👋
 
 ### About me
-I'm a junior web developer with a focus on JS development and a specialization in UX. I have been learning and working with both frontend and backend technologies.
 
-I learned and developed frontend projects with HTML5 and CSS3 and I am currently learning backend programming using Node.js, Express, Nunjucks and Postgres as a database.
+I am a tech enthusiast passionate about creating attractive and interactive interfaces.
 
-- 💻 [cassiabernardo.com](https://cassiabernardo.com/) - My personal website. 
+I love the idea of transforming ideas into reality specially when it can have an impact on people's lives!
 
-- 🌱 I’m currently learning: 
+- 🎓 Gratuated at Systems Analysis and Development at [Mackenzie](https://mackenzie.br/).
 
-- 🔭 Projects:
- 
+- 🌱 I’m currently learning at [Rocketseat](https://rocketseat.com.br/).
+
+- 😉 Sexy code is easy to read and to test!
+
+- 🚀 Always learning and improving. Sky is the limit!
+
+
+### Current Stack
+
+- Main Languages: JavaScript, HTML, CSS.
+- Frontend: HTML, CSS, JavaScript, ReactJS, Styled Components.
+- Backend: NodeJS, Express.js.
+- Database: Sqlite, PostgreSQL.
+- Editors: VS Code.
+- Other tools: Git, Docker, NPM, Insomnia, Beekeeper Studio.
+
+
+### Contacts
+
+- 📪 Email: cassia.bernardo90@gmail.com
+- ✨ Linkedin: https://www.linkedin.com/in/cassiabernardodev/
+- 💜 Portfolio: [cassiabernardo.com](https://cassiabernardo.com/)
+
+
 
 <!--
 Here are some ideas to get you started:
