@@ -3,6 +3,7 @@
 It's good to see you here. I'm Cássia! 👋
 
 ### About me
+___
 
 I am a tech enthusiast passionate about creating attractive and interactive web interfaces.
 
@@ -18,6 +19,7 @@ I love transforming ideas into reality especially when it can have an impact on 
 
 
 ### Current Stack
+___
 
 - Main Languages: JavaScript, HTML, CSS.
 - Frontend: HTML, CSS, JavaScript, ReactJS, Styled Components.
@@ -28,6 +30,7 @@ I love transforming ideas into reality especially when it can have an impact on 
 
 
 ### Contacts
+___
 
 - 📪 Email: cassia.bernardo90@gmail.com
 - ✨ Linkedin: https://www.linkedin.com/in/cassiabernardodev/
