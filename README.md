@@ -39,11 +39,14 @@ I love transforming ideas into reality especially when it can have an impact on 
 ### My Stats
 ----
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cah90&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cah90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cah90)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cah90&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cah90&show_icons=true&theme=dracula)
+
 
 <!--
 Here are some ideas to get you started:
