@@ -26,7 +26,7 @@ I love transforming ideas into reality especially when it can have an impact on 
 - Backend: ```NodeJS```, ```Express.js```.
 - Database: ```Sqlite```, ```PostgreSQL```.
 - Editors: ```VS Code```.
-- Other tools: ```Git```, ```Docker```, ```NPM```, ```Insomnia```, ```Beekeeper Studio```.
+- Other tools: ```Git```, ```Docker```, ```NPM```, ```Insomnia```, ```Beekeeper Studio```, ```Figma```.
 
 
 ### Contacts
