@@ -4,11 +4,11 @@ It's good to see you here. I'm Cássia! 👋
 
 ### About me
 
-I am a tech enthusiast passionate about creating attractive and interactive interfaces.
+I am a tech enthusiast passionate about creating attractive and interactive web interfaces.
 
 I love the idea of transforming ideas into reality specially when it can have an impact on people's lives!
 
-- 🎓 Gratuated at Systems Analysis and Development at [Mackenzie](https://mackenzie.br/).
+- 🎓 Graduated in Systems Analysis and Development at [Mackenzie](https://mackenzie.br/).
 
 - 🌱 I’m currently learning at [Rocketseat](https://rocketseat.com.br/).
 
