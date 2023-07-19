@@ -21,7 +21,7 @@ I love transforming ideas into reality especially when it can have an impact on 
 ### Current Stack
 ___
 
-- Main Languages: JavaScript, HTML, CSS.
+- Main Languages: ```JavaScript```, HTML, CSS.
 - Frontend: HTML, CSS, JavaScript, ReactJS, Styled Components.
 - Backend: NodeJS, Express.js.
 - Database: Sqlite, PostgreSQL.
