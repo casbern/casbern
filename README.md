@@ -17,7 +17,7 @@ I love transforming ideas into reality especially when it can have an impact on 
 
 - 🚀 Always learning and improving. Sky is not my limit!
 
-<br> 
+
 ### Current Stack
 ___
 
