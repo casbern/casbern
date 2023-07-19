@@ -14,7 +14,7 @@ I love the idea of transforming ideas into reality specially when it can have an
 
 - 😉 Sexy code is easy to read and to test!
 
-- 🚀 Always learning and improving. Sky is the limit!
+- 🚀 Always learning and improving. Sky is not my limit!
 
 
 ### Current Stack
