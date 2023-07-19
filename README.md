@@ -6,7 +6,7 @@ It's good to see you here. I'm Cássia! 👋
 
 I am a tech enthusiast passionate about creating attractive and interactive web interfaces.
 
-I love the idea of transforming ideas into reality specially when it can have an impact on people's lives!
+I love transforming ideas into reality especially when it can have an impact on people's lives!
 
 - 🎓 Graduated in Systems Analysis and Development at [Mackenzie](https://mackenzie.br/).
 
