@@ -17,16 +17,16 @@ I love transforming ideas into reality especially when it can have an impact on 
 
 - 🚀 Always learning and improving. Sky is not my limit!
 
-
+<br> 
 ### Current Stack
 ___
 
-- Main Languages: ```JavaScript```, HTML, CSS.
-- Frontend: HTML, CSS, JavaScript, ReactJS, Styled Components.
-- Backend: NodeJS, Express.js.
-- Database: Sqlite, PostgreSQL.
-- Editors: VS Code.
-- Other tools: Git, Docker, NPM, Insomnia, Beekeeper Studio.
+- Main Languages: ```JavaScript```, ```HTML```, ```CSS```.
+- Frontend: ```HTML```, ```CSS```, ```JavaScript```, ```ReactJS```, ```Styled Components```.
+- Backend: ```NodeJS```, ```Express.js```.
+- Database: ```Sqlite```, ```PostgreSQL```.
+- Editors: ```VS Code```.
+- Other tools: ```Git```, ```Docker```, ```NPM```, ```Insomnia```, ```Beekeeper Studio```.
 
 
 ### Contacts
