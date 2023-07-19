@@ -1,4 +1,6 @@
-### < Hello /> I'm Cássia! 👋
+### < Hello /> 
+
+It's good to see you here. I'm Cássia! 👋
 
 ### About me
 
