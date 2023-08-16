@@ -13,9 +13,7 @@ I love transforming ideas into reality especially when it can have an impact on 
 
 - 🌱 I’m currently learning at [Rocketseat](https://rocketseat.com.br/).
 
-- 😉 Sexy code is easy to read and to test!
-
-- 🚀 Always learning and improving. Sky is not my limit!
+- 🚀 Always learning and improving.
 
 
 ### Current Stack
