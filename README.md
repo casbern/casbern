@@ -1,60 +1,63 @@
-### < Hello /> 
+# < Hello World /> 👋
 
-It's good to see you here. I'm Cássia! 👋
+It's great to see you here! I'm **Cássia**, a passionate web developer eager to transform ideas into reality. 🚀
 
-### About me
-----
+## About me
 
-I am a tech enthusiast passionate about creating attractive and interactive web interfaces.
+I am a tech enthusiast with a strong passion for creating attractive and interactive web interfaces.
 
 I love transforming ideas into reality especially when it can have an impact on people's lives!
 
-- 🎓 Graduated in Systems Analysis and Development at [Mackenzie](https://mackenzie.br/).
+- 🎓 **Graduated** in Systems Analysis and Development at **[Mackenzie](https://mackenzie.br/)**.
 
-- 🌱 I’m currently learning at [Rocketseat](https://rocketseat.com.br/).
+- 🌱 I’m currently learning at **[Rocketseat](https://rocketseat.com.br/)** and diving into modern JavaScript and ReactJS.  
 
-- 🚀 Always learning and improving.
-
-
-### Current Stack
-----
-
-- Main Languages: ```JavaScript```, ```HTML```, ```CSS```.
-- Frontend: ```HTML```, ```CSS```, ```JavaScript```, ```ReactJS```, ```Styled Components```.
-- Backend: ```NodeJS```, ```Express.js```.
-- Database: ```Sqlite```, ```PostgreSQL```.
-- Editors: ```VS Code```.
-- Other tools: ```Git```, ```Docker```, ```NPM```, ```Insomnia```, ```Beekeeper Studio```, ```Figma```.
+- 🚀 **Always learning** and evolving as a developer.
 
 
-### Contacts
-----
+## 🔧 My Tech Stack
 
-- 📪 Email: cassia.bernardo90@gmail.com
-- ✨ Linkedin: https://www.linkedin.com/in/cassiabernardodev/
-- 💜 Portfolio: [cassiabernardo.com](https://cassiabernardo.com/)
+### Main Languages:
+- JavaScript, HTML, CSS
 
-### My Stats
-----
+### Frontend:
+- HTML, CSS, JavaScript, ReactJS, Styled Components
+
+### Backend:
+- Node.js, Express.js
+
+### Database:
+- SQLite, PostgreSQL
+
+### Tools & Editors:
+- VS Code, Git, Docker, NPM, Insomnia, Beekeeper Studio, Figma
+
+
+## 🌍 Get in Touch
+
+- 📪 **Email**: [cassia.bernardo90@gmail.com](mailto:cassia.bernardo90@gmail.com)  
+- ✨ **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/cassiabernardodev/)  
+- 💜 **Portfolio**: [cassiabernardo.com](http://cassiabernardo.com)
+
+  
+## 📈 GitHub Stats
+
+![Cássia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassbern&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casbern&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🌱 Currently Learning
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=cah90&theme=dark&hide_border=true)](https://git.io/streak-stats)
+- **ReactJS** (with Redux for state management)
+- **TypeScript** (making my code safer and more scalable)
+- **GraphQL** (for more efficient data fetching)
+
+## 🧑‍💻 Fun Fact
+I also enjoy **UI/UX design** and working on making apps not only functional but also user-friendly. 😊
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or chat about tech. 😊
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cah90&show_icons=true&theme=dracula) -->
 
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
