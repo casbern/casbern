@@ -2,7 +2,7 @@
 
 It's great to see you here! I'm **Cássia**, a passionate web developer eager to transform ideas into reality. 🚀
 
-## About me
+## 👩🏻‍💻 About me
 
 I am a tech enthusiast with a strong passion for creating attractive and interactive web interfaces.
 
@@ -42,7 +42,7 @@ I love transforming ideas into reality especially when it can have an impact on 
   
 ## 📈 GitHub Stats
 
-![Cássia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassbern&show_icons=true&theme=radical)
+![Cássia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=casbern&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casbern&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
