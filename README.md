@@ -52,8 +52,8 @@ I love transforming ideas into reality especially when it can have an impact on 
 - **TypeScript** (making my code safer and more scalable)
 - **GraphQL** (for more efficient data fetching)
 
-## 🧑‍💻 Fun Fact
-I also enjoy **UI/UX design** and working on making apps not only functional but also user-friendly. 😊
+## 🌟 Fun Fact
+I also enjoy **UI/UX design** and working on making apps not only functional but also user-friendly. 
 
 ---
 
